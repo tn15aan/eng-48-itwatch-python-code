@@ -1,7 +1,0 @@
-DEPENDENCIES
-  test_env_ami
-    path: .
-    metadata: true
-
-GRAPH
-  test_env_ami (0.1.0)
